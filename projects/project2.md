@@ -24,7 +24,7 @@ You **must** create this part of the story using only the input shown above. Rep
 One _cold cold_ day, _Mary Sue_ walked into a _library_. They walk up to the front and ask 
 "Where can I find the _painting_ that I made?". The person replies 
 "Well, let's see, what's your name?". 
-"I'm _Mary_, _Mary Sue_." 
+"I'm _Mary_, last name _Sue_." 
 "Your initials?"
 "_MS_"
 "Oh! You're... THE _MARY SUE_! You are in the top _10_ in _Boston_! Your _p-p-painting_ is right over here."

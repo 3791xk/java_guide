@@ -4,6 +4,9 @@ String s1 = "Hello";
 String s2 = "World";
 String s3 = "World";
 
+// Print the number of letters in s1
+System.out.println("# letter in s1 " + [FILLIN]);
+
 // Print the first letter of s1
 System.out.println("first letter of s1 " + [FILLIN]);
 
@@ -15,6 +18,9 @@ System.out.println("first two letters of s1 are " + [FILLIN]);
 
 // Print the first half of s2
 System.out.println("half of s2 is " + [FILLIN]);
+
+// Print the second half of s2
+System.out.println("second half of s2 is " + [FILLIN]);
 
 // Print true if s1 is equal to s2
 System.out.println("s1 = s2 is " + [FILLIN]);
